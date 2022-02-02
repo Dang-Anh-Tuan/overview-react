@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/overview-react/static/css/main.31d6cfe0.css",
+    "main.js": "/overview-react/static/js/main.3a5e37cb.js",
+    "index.html": "/overview-react/index.html",
+    "main.3a5e37cb.js.map": "/overview-react/static/js/main.3a5e37cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3a5e37cb.js"
+  ]
+}
